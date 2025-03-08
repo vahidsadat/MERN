@@ -20,7 +20,7 @@ const App = () => {
           <NewPlace />
         </Route>
         <Redirect to="/" />
-      </Switch>
+      </Switch>   
     </Router>
   );
 };
