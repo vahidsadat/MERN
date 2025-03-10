@@ -7,7 +7,7 @@ const Users = () => {
     {
       id:'u1',
       name:'Vahid', 
-      image : 'https://m.media-amazon.com/images/I/81b--uTvYSL._AC_SL1500_.jpg' , 
+      image : 'https://fastly.picsum.photos/id/2/5000/3333.jpg?hmac=_KDkqQVttXw_nM-RyJfLImIbafFrqLsuGO5YuHqD-qQ' , 
       places: 3
     }
   ];
